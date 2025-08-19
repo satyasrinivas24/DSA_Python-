@@ -35,4 +35,6 @@
 # res = binary_search(arr,trg)
 # print(res)
 
-"editor.quickSuggestions": false
+#         self.next = None:
+
+
